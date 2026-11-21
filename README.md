@@ -66,9 +66,9 @@ npm run dev
 | Họ và tên | MSSV | Vai trò / Phụ trách | GitHub |
 | :--- | :--- | :--- | :--- |
 | Nguyễn Duy Tân | 2451160825 | Trưởng nhóm, Backend, CSDL | @tanne55 |
-| Nguyễn Hữu Quyết | 2451160819 | Frontend, UI/UX | @huuquyetnguyen |
+| Nguyễn Hữu Quyết | 2451160819 | Frontend, UI/UX | @QuyetNguyenHuu|
 | Nguyễn Hữu Hồng Sơn | 2451160823 | Kiểm thử, Tài liệu | @Hson2509 |
-| Cao Thanh Tùng | 2451160846 | Triển khai, Vận hành | @tung-debug |
+| Cao Thanh Tùng | 2451160846 | Triển khai, Vận hành | @tung23062006-debug |
 
 ## Đóng góp và quy ước làm việc
 - Tạo branch mới từ `main` theo cú pháp: `feat/ten-tinh-nang` hoặc `fix/ten-loi`.
